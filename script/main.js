@@ -6,7 +6,7 @@
 	//	theSeasonText = document.querySelector('.main-copy p'),
 	//	appliedClass;
 
-	var $theImages = $('.image-holder');
+	var $theImages = $('.image-holder'),
 		$theHeading = $('.heading'),
 		$theSubhead = $('.main-copy h2'),
 		$theSeasonText = $('.main-copy p'),
